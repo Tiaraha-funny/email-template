@@ -1,0 +1,26 @@
+{
+  "name": "email-template",
+  "version": "1.0.0",
+  "description": "Template email",
+  "main": "index.js",
+  "devDependencies": {
+    "parcel": "^2.10.2"
+  },
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tiaraha-funny/email-template.git"
+  },
+  "author": "Peta Jeannie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tiaraha-funny/email-template/issues"
+  },
+  "homepage": "https://github.com/Tiaraha-funny/email-template#readme"
+}
